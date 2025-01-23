@@ -346,8 +346,8 @@ return {
             groups = 'police',
             accessPoints = {
                 {
-                    coords = vec4(454.6, -1017.4, 28.4, 0),
-                    spawn = vec4(438.4, -1018.3, 27.7, 90.0),
+                    coords = vec4(458.77, -992.39, 25.7, 239.61),
+                    spawn = vec4(451.06, -976.4, 24.9, 31.50),
                 }
             },
         },
